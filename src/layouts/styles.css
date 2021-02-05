@@ -1,0 +1,22 @@
+.main-layout {
+  background-color: blue;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.main-layout-header {
+  background-color: red;
+  height: 3.5em;
+  width: 100%;
+}
+.main-layout-body {
+  min-height: 40em;
+  height: 100%;
+  background-color: green;
+}
+.main-layout-footer {
+  height: 4em;
+  background-color: hotpink;
+  width: 100%;
+}
